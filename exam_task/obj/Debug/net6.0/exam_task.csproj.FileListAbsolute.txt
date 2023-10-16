@@ -1,0 +1,15 @@
+C:\GeekBrains\Exam\exam_programming\exam_task\bin\Debug\net6.0\exam_task.exe
+C:\GeekBrains\Exam\exam_programming\exam_task\bin\Debug\net6.0\exam_task.deps.json
+C:\GeekBrains\Exam\exam_programming\exam_task\bin\Debug\net6.0\exam_task.runtimeconfig.json
+C:\GeekBrains\Exam\exam_programming\exam_task\bin\Debug\net6.0\exam_task.dll
+C:\GeekBrains\Exam\exam_programming\exam_task\bin\Debug\net6.0\exam_task.pdb
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.csproj.AssemblyReference.cache
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.AssemblyInfoInputs.cache
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.AssemblyInfo.cs
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.dll
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\refint\exam_task.dll
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.pdb
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\exam_task.genruntimeconfig.cache
+C:\GeekBrains\Exam\exam_programming\exam_task\obj\Debug\net6.0\ref\exam_task.dll
