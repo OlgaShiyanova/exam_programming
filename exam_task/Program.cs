@@ -46,9 +46,9 @@ void CreateNewArray(string[] arr1, string[] arr2)
 }
 
 FillArray(array);
-Console.Write("Первичный массив -> ");
+Console.Write("Ваш массив -> ");
 PrintArray(array);
 Console.WriteLine();
 CreateNewArray(array, newArray);
-Console.Write("Конечный массив -> ");
+Console.Write("массив с элементами <3 элементов -> ");
 PrintArray(newArray);
